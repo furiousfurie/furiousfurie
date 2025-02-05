@@ -1,7 +1,7 @@
 ### Hello World
 - I code mc plugin using papermc
 - I prefer backend over frontend
-- I am learning Opengl and planning to learn javascript
+- I am learning javascript and planning to learn Opengl
 - I plan to switch to linux 🐧
 - I like Math 
 
