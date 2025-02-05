@@ -14,7 +14,7 @@
 </p>
 <h2>I am learning: </h2>
 <p>
-   <a ><img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg"width="60" height="60"/></a>
+   <a ><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg"width="60" height="60"/></a>
 </p>
 <h2> I use</h2>
 <p>
