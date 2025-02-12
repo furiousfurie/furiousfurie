@@ -10,7 +10,7 @@
 <p>
    <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="60" height="60"/></a>
    <a ><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"width="60" height="60"/></a>
-   <a ><img title="only mc plugin" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"width="60" height="60"/></a>
+   <a ><img title="only mc plugin" src="https://docs.papermc.io/assets/images/papermc-logomark-512-f125384f3367cd4d9291ca983fcb7334.png"width="60" height="60"/></a>
 </p>
 <h2>I am learning: </h2>
 <p>
